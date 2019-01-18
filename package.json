@@ -1,0 +1,22 @@
+{
+  "name": "tictactoe",
+  "version": "1.0.0",
+  "description": "\"# TicTacToe\"",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/natedebenedetti/TicTacToe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/natedebenedetti/TicTacToe/issues"
+  },
+  "homepage": "https://github.com/natedebenedetti/TicTacToe#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
